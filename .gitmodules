@@ -1,0 +1,3 @@
+[submodule "meta-fl"]
+	path = meta-fl
+	url = https://github.com/drithh/meta-fl
